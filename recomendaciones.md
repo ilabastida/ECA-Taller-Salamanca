@@ -1,23 +1,15 @@
-## 20 RDM Best-Practice Recommendations
+# 20 RDM Best-Practice Recommendations
 
-These recommendations for Best Practice in Research Data Management are based on
-discussions between delegates and speakers at LEARN Project workshops in Europe and Latin
-America. The Workshops were held over the course of 2016/2017.
+These recommendations for Best Practice in Research Data Management are based on discussions between delegates and speakers at LEARN Project workshops in Europe and Latin America. The Workshops were held over the course of 2016/2017.
 
-# Policy & Leadership
-Implementing a policy in institutions is key for setting up RDM services. The formulation of a
-policy is the starting point from which an institution and its researchers can understand assigned
-roles and responsibilities.
-1. Senior management can, and should, lead the way but it is equally important for a
-multidisciplinary range of stakeholders (e.g. scientific researchers, libraries, research funders,
-corporations, IT departments), including external experts such as legal advisers to be involved
-in a policy’s formulation.
+## Policy & Leadership
+Implementing a policy in institutions is key for setting up RDM services. The formulation of a policy is the starting point from which an institution and its researchers can understand assigned roles and responsibilities.
+1. Senior management can, and should, lead the way but it is equally important for a multidisciplinary range of stakeholders (e.g. scientific researchers, libraries, research funders, corporations, IT departments), including external experts such as legal advisers to be involved in a policy’s formulation.
 2. Research Data Management (RDM) offices or teams should be established, and staff identified
 to collate and co-ordinate activity across the many stakeholders.
 3. A successful policy should make it easy, fast, interesting and rewarding for researchers to make
 data available, leading to lower administrative burdens.
-4. According to the LERU Roadmap for Research Data1
-, definitions of research data and RDM
+4. According to the LERU Roadmap for Research Data, definitions of research data and RDM
 should be a feature of any RDM policy. Finding the common ground between disciplinary
 practice and central institutional demands is a key component of this.
 5. Clear guidance on access to data (eg. open, closed, restricted) and on how, and when, data
@@ -34,7 +26,7 @@ reuse beyond academic communities and for the public good.
 9. Educational resources (eg textbooks, software) should also embrace research outputs (eg
 research articles, research data) which can be used to enrich the student experience. As such,
 educational resources should be addressed within research data management policies.
-Open Data
+## Open Data
 Open Data can bring many benefits to research communities, enabling high-quality research,
 encouraging innovation and safeguarding good research practice.
 10. Research data should be open by default, so long as the RDM policy provides an opt-out clause.
@@ -44,16 +36,7 @@ research project as part of a data management plan. The policy should be ‘perm
 any number of different approaches, including educational re-use.
 11. Copyright clearance is compulsory for data reuse, thus a well-established and clear licensing
 framework is needed for the researcher to know the limits and obligations in the reuse of data.
-1. http://www.leru.org/files/publications/AP14_LERU_Roadmap_for_Research_data_final.pdf
-www.learn-rdm.eu
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Grant Agreement No 654139.
-Costs
-The issue of costs is complex, especially when it comes to projecting long-term budgets.
-Roles, Responsibilities & Skills
-Skills development is essential in embedding a successful RDM culture within an institution.
-For more Research Data Management resources, including our 185-page Toolkit of Best Practice
-for Research Data Management, visit the LEARN website: www.learn-rdm.eu.
-Advocacy
+## Advocacy
 The benefits of RDM (e.g. acknowledgement, greater visibility and reputation, reward and routes
 for promotion) need to be promoted and demonstrated to researchers across various departments,
 career stages and disciplines.
@@ -68,11 +51,15 @@ research institutions. They can proactively give RDM support to their researcher
 units (e.g. help desk, FAQ, thematic portals, training, infrastructure, budget for
 acquiring DOIs). Support at the management level is a key factor which enables libraries to
 fulfill their RDM roles.
+## Costs
+The issue of costs is complex, especially when it comes to projecting long-term budgets.
 15. The main difficulty in planning costs comes from the costs of human resources, both in terms
 of training and service provision. Other issues which could impact on costs include the context
 and the tools in which users will access and re-use data, the degrees of security and of trust that
 should be achieved, and the creation of good metadata sets. Shared services could be a solution
 for minimising costs.
+## Roles, Responsibilities & Skills
+Skills development is essential in embedding a successful RDM culture within an institution.
 16. Institutions should be responsible for research data created by their community over the whole
 research lifecycle. Research data policies must specify the procedures and measures to be taken
 in the case of researchers leaving the institution. Services to support and accompany this data
