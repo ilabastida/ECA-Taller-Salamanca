@@ -1,4 +1,4 @@
-# 20 RDM Best-Practice Recommendations
+# 20 RDM Best-Practice Recommendations from LEARN
 
 These recommendations for Best Practice in Research Data Management are based on discussions between delegates and speakers at LEARN Project workshops in Europe and Latin America. The Workshops were held over the course of 2016/2017.
 
