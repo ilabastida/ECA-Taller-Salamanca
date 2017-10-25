@@ -1,8 +1,10 @@
-20 RDM Best-Practice Recommendations
+## 20 RDM Best-Practice Recommendations
+
 These recommendations for Best Practice in Research Data Management are based on
 discussions between delegates and speakers at LEARN Project workshops in Europe and Latin
 America. The Workshops were held over the course of 2016/2017.
-Policy & Leadership
+
+# Policy & Leadership
 Implementing a policy in institutions is key for setting up RDM services. The formulation of a
 policy is the starting point from which an institution and its researchers can understand assigned
 roles and responsibilities.
