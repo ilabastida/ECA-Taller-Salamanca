@@ -26,6 +26,7 @@ reuse beyond academic communities and for the public good.
 9. Educational resources (eg textbooks, software) should also embrace research outputs (eg
 research articles, research data) which can be used to enrich the student experience. As such,
 educational resources should be addressed within research data management policies.
+
 ## Open Data
 Open Data can bring many benefits to research communities, enabling high-quality research,encouraging innovation and safeguarding good research practice.
 10. Research data should be open by default, so long as the RDM policy provides an opt-out clause. The policy needs to stipulate reasons for an opt-out to be considered (e.g. privacy, confidentiality, legal or commercial reasons). These considerations should be assessed at the beginning of the research project as part of a data management plan. The policy should be ‘permissive’, allowing any number of different approaches, including educational re-use.
