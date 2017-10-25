@@ -27,15 +27,9 @@ reuse beyond academic communities and for the public good.
 research articles, research data) which can be used to enrich the student experience. As such,
 educational resources should be addressed within research data management policies.
 ## Open Data
-Open Data can bring many benefits to research communities, enabling high-quality research,
-encouraging innovation and safeguarding good research practice.
-10. Research data should be open by default, so long as the RDM policy provides an opt-out clause.
-The policy needs to stipulate reasons for an opt-out to be considered (e.g. privacy, confidentiality,
-legal or commercial reasons). These considerations should be assessed at the beginning of the
-research project as part of a data management plan. The policy should be ‘permissive’, allowing
-any number of different approaches, including educational re-use.
-11. Copyright clearance is compulsory for data reuse, thus a well-established and clear licensing
-framework is needed for the researcher to know the limits and obligations in the reuse of data.
+Open Data can bring many benefits to research communities, enabling high-quality research,encouraging innovation and safeguarding good research practice.
+10. Research data should be open by default, so long as the RDM policy provides an opt-out clause. The policy needs to stipulate reasons for an opt-out to be considered (e.g. privacy, confidentiality, legal or commercial reasons). These considerations should be assessed at the beginning of the research project as part of a data management plan. The policy should be ‘permissive’, allowing any number of different approaches, including educational re-use.
+11. Copyright clearance is compulsory for data reuse, thus a well-established and clear licensing framework is needed for the researcher to know the limits and obligations in the reuse of data.
 ## Advocacy
 The benefits of RDM (e.g. acknowledgement, greater visibility and reputation, reward and routes
 for promotion) need to be promoted and demonstrated to researchers across various departments,
