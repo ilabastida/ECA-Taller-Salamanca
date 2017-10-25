@@ -1,2 +1,8 @@
-Diseño de una política sobsre gestión de datos
+Diseño de una política sobre gestión de datos
+Qué
+- Datos
+- A quien afecta
+- 
+Cómo y cuándo
 
+Roles y responsabilidades
