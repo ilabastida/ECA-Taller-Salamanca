@@ -1,2 +1,3 @@
 # ECA-Taller-Salamanca
-Información para seguir el taller sobre getsión de datos
+Información para seguir el taller sobre gestión de datos
+Work in progress
